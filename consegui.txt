@@ -1,0 +1,10 @@
+
+Esse sistema ira mostrar que você também consegue
+aperte .. para retornar
+
+aperte esc para sair
+
+
+
+teste:2
+
